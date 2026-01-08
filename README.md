@@ -5,15 +5,6 @@ Welcome to the **Age & Gender Detection App**! This project uses **deep learning
 
 ---
 
-## 📸 Demo Preview
-
-> 🔍 Upload an image, turn on your webcam, or drop a video file — and let the model do the rest!
-
-**User Interface**
-![Preview](image.png)
-**Webcam Feed**
-![WebCam](image-1.png)
----
 
 ## ✨ Features
 
