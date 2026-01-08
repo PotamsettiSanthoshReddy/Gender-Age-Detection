@@ -237,4 +237,4 @@ elif input_method == "Upload Video":
 
 # Footer
 st.markdown("---")
-st.write("Powered by **Streamlit** and **OpenCV** | Built with ❤️ by Satyabrat Panda")
+st.write("Powered by **Streamlit** and **OpenCV** | Built with ❤️ by Potamsetti Santhosh Reddy")
